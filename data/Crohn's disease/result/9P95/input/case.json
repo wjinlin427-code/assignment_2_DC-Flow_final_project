@@ -1,0 +1,23 @@
+{
+  "case_id": "9P95",
+  "pocket": "pocket.pdb",
+  "receptor": "receptor.pdb",
+  "receptor_chains": "A,B",
+  "length": 12,
+  "center": [
+    219.336,
+    214.511,
+    236.771
+  ],
+  "topology": "HT",
+  "source_pdb_id": "9P95",
+  "target_description": "MAdCAM-1 interface with integrin alpha4beta7",
+  "target_chains": [
+    "A",
+    "B"
+  ],
+  "interface_partner_chain": "C",
+  "pocket_cutoff_angstrom": 12.0,
+  "center_definition": "mean C-alpha of partner residues with any heavy-atom distance <=10 A to target",
+  "design_from_scratch": true
+}

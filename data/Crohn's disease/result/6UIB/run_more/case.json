@@ -1,0 +1,23 @@
+{
+  "case_id": "6UIB",
+  "pocket": "/mnt/lab/wjl/data/Crohn's disease/result/6UIB/input/pocket.pdb",
+  "receptor": "/mnt/lab/wjl/data/Crohn's disease/result/6UIB/input/receptor.pdb",
+  "receptor_chains": "A,B",
+  "length": 15,
+  "center": [
+    -26.659,
+    -9.256,
+    -29.935
+  ],
+  "topology": "HT",
+  "source_pdb_id": "6UIB",
+  "target_description": "IL23 bound peptide 23-652",
+  "target_chains": [
+    "A",
+    "B"
+  ],
+  "interface_partner_chain": "C",
+  "pocket_cutoff_angstrom": 12.0,
+  "center_definition": "mean C-alpha of partner residues with any heavy-atom distance <=10 A to target",
+  "design_from_scratch": true
+}

@@ -1,0 +1,258 @@
+[
+  {
+    "candidate": "candidate_000",
+    "peptide_sequence": "QDHSPAIGAGATHASPGN",
+    "structure": "candidate_000.pdb",
+    "peptide_structure": "candidate_000_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_001",
+    "peptide_sequence": "YGDGGNWRATFSFGQPMF",
+    "structure": "candidate_001.pdb",
+    "peptide_structure": "candidate_001_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_002",
+    "peptide_sequence": "PSFPDTAGASGCGVTNTY",
+    "structure": "candidate_002.pdb",
+    "peptide_structure": "candidate_002_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_003",
+    "peptide_sequence": "HREHNVGGPPPCFPCFSE",
+    "structure": "candidate_003.pdb",
+    "peptide_structure": "candidate_003_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_004",
+    "peptide_sequence": "LYYHFSNSGTTPMSASNC",
+    "structure": "candidate_004.pdb",
+    "peptide_structure": "candidate_004_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_005",
+    "peptide_sequence": "DQYSVYFAPDDPHSPMMG",
+    "structure": "candidate_005.pdb",
+    "peptide_structure": "candidate_005_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_006",
+    "peptide_sequence": "TAVGTHFNTDFAAASGQA",
+    "structure": "candidate_006.pdb",
+    "peptide_structure": "candidate_006_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_007",
+    "peptide_sequence": "PYPVGGPNADAGACPGNP",
+    "structure": "candidate_007.pdb",
+    "peptide_structure": "candidate_007_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_008",
+    "peptide_sequence": "HAWTTYTVGSSAVWADTA",
+    "structure": "candidate_008.pdb",
+    "peptide_structure": "candidate_008_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_009",
+    "peptide_sequence": "PHSGCNGATASPFGVVHP",
+    "structure": "candidate_009.pdb",
+    "peptide_structure": "candidate_009_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_010",
+    "peptide_sequence": "SSMYAATCHGSYAGGFEP",
+    "structure": "candidate_010.pdb",
+    "peptide_structure": "candidate_010_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_011",
+    "peptide_sequence": "GAVTHVPYYSCPSYFDTA",
+    "structure": "candidate_011.pdb",
+    "peptide_structure": "candidate_011_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_012",
+    "peptide_sequence": "DEYSGYFDDDEPGPQKDQ",
+    "structure": "candidate_012.pdb",
+    "peptide_structure": "candidate_012_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_013",
+    "peptide_sequence": "AVNVIAGYTAPNDQDSAC",
+    "structure": "candidate_013.pdb",
+    "peptide_structure": "candidate_013_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_014",
+    "peptide_sequence": "SSGNNNGWYTPPTGVYNS",
+    "structure": "candidate_014.pdb",
+    "peptide_structure": "candidate_014_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_015",
+    "peptide_sequence": "TEAGLHSASWAAGAADAC",
+    "structure": "candidate_015.pdb",
+    "peptide_structure": "candidate_015_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_016",
+    "peptide_sequence": "SDGWPPTYGADYASTQHP",
+    "structure": "candidate_016.pdb",
+    "peptide_structure": "candidate_016_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_017",
+    "peptide_sequence": "PAFPAPDTHAGYQVHDQM",
+    "structure": "candidate_017.pdb",
+    "peptide_structure": "candidate_017_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_018",
+    "peptide_sequence": "AWWSDYSASMMGAYASGA",
+    "structure": "candidate_018.pdb",
+    "peptide_structure": "candidate_018_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_019",
+    "peptide_sequence": "IDADECPNDGEAGGPHSP",
+    "structure": "candidate_019.pdb",
+    "peptide_structure": "candidate_019_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_020",
+    "peptide_sequence": "GTPDIYHWGYNDVYFAQD",
+    "structure": "candidate_020.pdb",
+    "peptide_structure": "candidate_020_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_021",
+    "peptide_sequence": "NDYWPHGHDGAMDPSATT",
+    "structure": "candidate_021.pdb",
+    "peptide_structure": "candidate_021_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_022",
+    "peptide_sequence": "SWMNAGPGEHGSYDTIFD",
+    "structure": "candidate_022.pdb",
+    "peptide_structure": "candidate_022_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_023",
+    "peptide_sequence": "APNHAVDPHNWFVNSSFT",
+    "structure": "candidate_023.pdb",
+    "peptide_structure": "candidate_023_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_024",
+    "peptide_sequence": "AAPDNVWAGHVAHCVGNP",
+    "structure": "candidate_024.pdb",
+    "peptide_structure": "candidate_024_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_025",
+    "peptide_sequence": "GVGHANDNGSPWDSQGGG",
+    "structure": "candidate_025.pdb",
+    "peptide_structure": "candidate_025_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_026",
+    "peptide_sequence": "QNCHGAPGNSSDSAGMND",
+    "structure": "candidate_026.pdb",
+    "peptide_structure": "candidate_026_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_027",
+    "peptide_sequence": "VDMSFSNTNGVDNSAFNT",
+    "structure": "candidate_027.pdb",
+    "peptide_structure": "candidate_027_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_028",
+    "peptide_sequence": "DDQTAQGAFDPTGVNGCL",
+    "structure": "candidate_028.pdb",
+    "peptide_structure": "candidate_028_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_029",
+    "peptide_sequence": "GTPGYGSEDDSGFGTYSD",
+    "structure": "candidate_029.pdb",
+    "peptide_structure": "candidate_029_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_030",
+    "peptide_sequence": "GDGSVGGHGGMYWGAGDA",
+    "structure": "candidate_030.pdb",
+    "peptide_structure": "candidate_030_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  },
+  {
+    "candidate": "candidate_031",
+    "peptide_sequence": "SSPGATIGTASSFGYGPA",
+    "structure": "candidate_031.pdb",
+    "peptide_structure": "candidate_031_peptide.pdb",
+    "peptide_chain": "P",
+    "topology": "HT"
+  }
+]

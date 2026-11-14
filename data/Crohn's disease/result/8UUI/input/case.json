@@ -1,0 +1,23 @@
+{
+  "case_id": "8UUI",
+  "pocket": "pocket.pdb",
+  "receptor": "receptor.pdb",
+  "receptor_chains": "A,B",
+  "length": 18,
+  "center": [
+    -42.114,
+    -40.753,
+    -2.294
+  ],
+  "topology": "HT",
+  "source_pdb_id": "8UUI",
+  "target_description": "IL23 bound peptide 23-446",
+  "target_chains": [
+    "A",
+    "B"
+  ],
+  "interface_partner_chain": "D",
+  "pocket_cutoff_angstrom": 12.0,
+  "center_definition": "mean C-alpha of partner residues with any heavy-atom distance <=10 A to target",
+  "design_from_scratch": true
+}
