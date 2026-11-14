@@ -13,7 +13,15 @@ python -m pip check
 
 Alternatively, create the Conda base with `conda env create -f envs/DC-Flow/environment.yml` and then run the same activation and pip steps.
 
-The source environment used a separate editable installation of `dcflow` 1.0.0. Obtain the matching DC-Flow source checkout and install it with `python -m pip install --no-deps -e /path/to/DCFlow`. The source checkout is separate from this environment export.
+The [DC-Flow inference release](../../DCFlow) is included in this repository, with its [model checkpoint](../../DCFlow/checkpoints/dcflow.pt), [checksum manifest](../../DCFlow/checkpoints/manifest.json), and license notices. It is a snapshot of [the upstream inference release](https://github.com/mianqiu00/DCFlow/tree/db79a55d59bbf3b2133c794ba34287b901749a9d).
+
+After activating the environment, install the included `dcflow` 1.0.0 package from the repository root:
+
+```bash
+python -m pip install --no-deps -e ./DCFlow
+```
+
+See the [inference README](../../DCFlow/README.md) for model usage and any external assets required by a workflow.
 
 For workflows that invoke the included ProteinMPNN checkout, set these paths from the repository root:
 
